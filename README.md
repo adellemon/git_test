@@ -1,1 +1,1 @@
-This is Adelle's first gir project!
+This is Adelle's first git project!
